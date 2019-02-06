@@ -5,7 +5,7 @@ var app = express();
 
 app.get('/', function (req, res) {
 
-  res.send('Cau svet, som tu!');
+  res.send('Cau svet, som tu a nebojim sa!');
 
 });
 
